@@ -1,0 +1,35 @@
+            Video | Other
+              Separating configuration from code in microservices
+              March 31, 2020
+
+
+            Video | Other
+              A strong cup of Java, Episode 3: Cloud-native Java and microservices
+              December 20, 2019
+
+
+            Video | Tech Talks
+              Get started with the Eclipse MicroProfile REST client
+              April 2, 2019
+
+
+            Video | Tech Talks
+              Jakarta EE plus Eclipse MicroProfile on Open Liberty
+              January 8, 2019
+
+
+            Video | Tech Talks
+              Get up and running with Eclipse MicroProfile and Open Liberty
+              December 18, 2018
+
+
+            Video | Tech Talks
+              Introduction to Eclipse MicroProfile
+              September 18, 2018
+
+
+            Video | Tech Talks
+              Deploy MicroProfile-based Java microservices on Kubernetes
+              May 9, 2018
+
+

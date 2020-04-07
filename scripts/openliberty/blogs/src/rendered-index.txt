@@ -1,0 +1,25 @@
+            Blog Post
+              Modernize your Java apps with open source, cloud-native tools
+              February 19, 2020
+
+
+            Blog Post
+              Conversations with Adam Bien
+              December 17, 2019
+
+
+            Blog Post
+              Let's talk modern development at SpringOne Platform
+              September 30, 2019
+
+
+            Blog Post
+              Congratulations to the Jakarta EE Community!
+              September 10, 2019
+
+
+            Blog Post
+              Get your enterprise apps ready for the cloud
+              September 4, 2019
+
+

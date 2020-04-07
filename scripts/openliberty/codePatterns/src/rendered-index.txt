@@ -1,0 +1,35 @@
+            Code Pattern
+              Java EE application modernization with OpenShift
+              August 1, 2019
+
+
+            Code Pattern
+              Build fault-tolerant microservices
+              June 27, 2019
+
+
+            Code Pattern
+              Use Eclipse MicroProfile Metrics feature to track usage metrics
+              March 21, 2019
+
+
+            Code Pattern
+              Configure your app using Eclipse MicroProfile Config
+              August 30, 2018
+
+
+            Code Pattern
+              Deploy MicroProfile-based Java microservices on Kubernetes
+              August 27, 2018
+
+
+            Code Pattern
+              Archived | Make Java microservices resilient with Istio
+              August 21, 2017
+
+
+            Code Pattern
+              Manage microservices traffic using Istio
+              July 27, 2017
+
+

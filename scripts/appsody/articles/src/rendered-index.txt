@@ -1,0 +1,5 @@
+            Article
+              Approach to customizing Appsody stacks and templates
+              October 16, 2019
+
+

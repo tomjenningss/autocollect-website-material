@@ -1,0 +1,15 @@
+            Series
+              Build a cloud-native microservices application in Java, step-by-step
+              July 30, 2019
+
+
+            Series
+              Write a simple MicroProfile application
+              January 29, 2019
+
+
+            Series
+              Open Liberty and Eclipse MicroProfile
+              January 28, 2019
+
+

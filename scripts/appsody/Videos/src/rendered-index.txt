@@ -1,0 +1,10 @@
+            Video | Tech Talks
+              Test Driven Development with Appsody
+              February 28, 2020
+
+
+            Video | Tech Talks
+              Use IBM Cloud Pak for Applications to quickly develop, run and debug code locally in a container
+              December 11, 2019
+
+

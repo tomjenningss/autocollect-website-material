@@ -1,0 +1,25 @@
+             Video | Other
+              A strong cup of Java, Episode 4: Introduction to Quarkus
+              December 23, 2019
+
+
+            Video | Other
+              A strong cup of Java, Episode 5: Introduction to Micronaut
+              December 23, 2019
+
+
+            Video | Other
+              A strong cup of Java, Episode 3: Cloud-native Java and microservices
+              December 20, 2019
+
+
+            Video | Other
+              A strong cup of Java, Episode 1: About Jakarta EE
+              September 25, 2019
+
+
+            Video | Other
+              A strong cup of Java, Episode 2: Jakarta EE 8 release
+              September 25, 2019
+
+
